@@ -10,16 +10,16 @@ The goal for this project was to create a responsive webpage for the display of 
 ---
 
 #### About/Index
-![About/Index Page](images/aboutwide.jpeg)
-![About/Index Page](images/aboutnarrow.jpeg)
+![About/Index Page](Images/aboutwide.jpeg)
+![About/Index Page](Images/aboutnarrow.jpeg)
 
 #### Contact Page
-![Contact Page](images/contactwide.jpeg)
-![Contact Page](images/contactnarrow.jpeg)
+![Contact Page](Images/contactwide.jpeg)
+![Contact Page](Images/contactnarrow.jpeg)
 
 #### Portfolio page
-![Portfolio Page](images/portfoliowide.jpeg)
-![Portfolio Page](images/portfolionarrow.jpeg)
+![Portfolio Page](Images/portfoliowide.jpeg)
+![Portfolio Page](Images/portfolionarrow.jpeg)
 
 ---
 
