@@ -1,0 +1,13 @@
+.imglink {
+    transition: .3s;
+    transform: scale(0.5);
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 3px;
+}
+
+.imglink:hover {
+    box-shadow: 5px 5px 10px black;
+    letter-spacing: 2px;
+}
