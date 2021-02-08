@@ -1,10 +1,18 @@
+h5 {
+    margin-top: 20px;
+}
+
+img {
+    margin-bottom: 5px;
+}
+
 .imglink {
     transition: .3s;
     transform: scale(0.5);
     color: black;
     padding: 5px;
     border-radius: 5px;
-    margin-top: 3px;
+    margin-bottom: 10px;
 }
 
 .imglink:hover {
