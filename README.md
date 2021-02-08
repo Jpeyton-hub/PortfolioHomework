@@ -6,6 +6,9 @@ The goal for this project was to create a responsive webpage for the display of 
 >- Contact form with text field
 >- Responsive image portfolio
 ---
+
+[Link to the site](https://jpeyton-hub.github.io/PortfolioHomework/)
+
 ### Below are screenshots of the pages.
 ---
 
